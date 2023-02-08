@@ -1,0 +1,112 @@
+img{
+   height: 50px;
+   width: 200px;
+   margin: 10px;
+}
+.logo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(223, 239, 239);
+    width: 100%;
+}    
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content1{
+    width: 600px;
+    background-color: rgb(223, 239, 239);
+}
+.content1 .first{
+    font-style: italic;
+    text-transform: uppercase;
+    margin-left: 20px;
+    padding: 10px;
+    font-weight: bold;    
+}
+.table1{
+    width: 90%;
+}
+.content1 .second ,.content2 
+{
+    color: blue;
+    font-style: italic;
+    text-transform: none;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 5px;
+    font-weight: bold;
+    
+    
+}
+.t1{
+    height: 40px;
+    width: 90%;
+    margin-left: 30px;
+    
+}
+.t2{
+    height: 40px;
+    width: 90%;
+    margin-left: 30px;
+    
+}
+.t3{
+    height: 40px;
+    width: 315%;
+    margin-left: 30px;
+}
+.t4{
+    height: 40px;
+    width: 600px;
+    margin-left: 30px;
+}
+.content2 p{
+    
+    margin-top: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    
+}
+.day{
+     margin-left: 30px;  
+     color: black;   
+     font-style: normal; 
+     width: 700px;
+     height: 30px;
+}
+.content3 p{
+    
+    color: blue;
+    font-style: italic;
+    text-transform: none;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 5px;
+    font-weight: bold;
+}
+.content3 .forth{
+    color: black;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 40px;
+    
+}
+h1 .submit{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 5px;
+    border: 0;
+}
